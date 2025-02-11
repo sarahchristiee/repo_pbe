@@ -13,6 +13,7 @@
 ## 👩‍💻 Tecnologias que eu utilizo
 
 >Linguagens: Python, C#, C++
+>
 >Ferramentas: Git, vscode
 
 
