@@ -1,6 +1,6 @@
 # Bem-vindos ao meu perfil GitHub 👋
 ## ✨ Sobre mim
-- Meu nome é Sarah Christie;
+- Meu nome é Sarah Christie.
 - Tenho 19 anos.
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 
